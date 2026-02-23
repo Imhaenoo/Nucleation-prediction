@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "NuMaPS: Nucleation Prediction Framework for Polymorph Selection"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Ha"
+    given-names: "In"
+repository-code: "https://github.com/Imhaenoo/Nucleation-prediction"
+license: MIT
